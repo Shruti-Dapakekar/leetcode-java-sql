@@ -23,7 +23,6 @@ class Solution {
 }
 */
 
-
 public class LC1480_RunningSumOf1DArray {
 
     public static int[] runningSum(int[] nums) {
