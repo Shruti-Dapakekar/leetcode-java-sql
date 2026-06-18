@@ -35,7 +35,7 @@ public class LC412_FizzBuzz {
 class Solution {
 
     public List<String> fizzBuzz(int n) {
-
+// 1. Create an empty list to store our answers
         List<String> answer = new ArrayList<>();
 
         for(int i = 1; i <= n; i++) {
